@@ -1,0 +1,4 @@
+int sum = a + b;
+float average = sum / 2.0;
+if (average > 50)
+printf("Pass");
